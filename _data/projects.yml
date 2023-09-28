@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Quantum Image Proccessing
-  role: Founder & Primary Developer
-  duration: Jun,2023 &mdash; Present
+- project: E-commerce web application using Wordpress
+  role: Developer
+  #duration: Jun,2023 &mdash; Present
   # url: "#"
-  description: Quantun Morphological operation based Image Proccessing for image sharpening and restoration.
+  #description: Quantun Morphological operation based Image Proccessing for image sharpening and restoration.
 
 # Springfield Community Outreach Group
-- project: Facemask Detection
+- project: E-commerce web application using HTML,CSS,JS
   role: Developer
-  duration: Fev,2023 &mdash; May,2023
+  #duration: Fev,2023 &mdash; May,2023
   # url: "#"
-  description: Python-3 based Face mask detection using Tensorflow & Open-CV.
+  #description: Python-3 based Face mask detection using Tensorflow & Open-CV.
