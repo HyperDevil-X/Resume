@@ -1,4 +1,12 @@
 # Skills
 # Organizational leadership
 - skill: Languages
-  description: HTML, CSS, JS, PHP, MYSQL,Wordpress, ASP.Net
+  description: HTML, CSS, JS, PHP, MYSQL
+
+# Framework
+- skill: Web Framework
+  description: ASP.Net, Mysql Server
+
+# Digital content development and creation
+- skill: CMS
+  description: WordPress
