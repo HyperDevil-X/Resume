@@ -1,5 +1,5 @@
 # Site settings
-title: "Snaptokon Resume"
+title: "Monaj's Resume"
 description: "Resume using Github Pages."
 
 # Build settings
@@ -10,17 +10,17 @@ sass:
 
 # Resume settings
 resume_avatar: "true"
-resume_name: "Souvik Pramanik"
+resume_name: "Monaj Bid"
 resume_title: "Contact Me"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: "souvikpramanik585@gmail.com"
+resume_contact_email: "manojbid2003@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "+919064999854"
-resume_contact_address: "Bhawanipur, Kharagpur - 721301"
+resume_contact_telephone: "+918918991088"
+resume_contact_address: "Durgapur"
 
-resume_header_contact_info: "Bhawanipur, Kharagpur - 721301 • +919064999854 • souvikpramanik585@gmail.com"
+resume_header_contact_info: "Durgapur • +918918991088 • souvikpramanik585@gmail.com"
 display_header_contact_info: "false"
 
 resume_header_intro: "<p>Final year in Computer Science graduate with a passion for learning and innovation. Seeking an entry-level position in the tech industry where I can use my skills and knowledge to make a positive impact</p>"
