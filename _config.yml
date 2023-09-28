@@ -18,9 +18,11 @@ resume_contact_email: "manojbid2003@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone: "+918918991088"
+display_header_contact_telephone: "true"
 resume_contact_address: "81 Sn Banerjee Road, A-zone, Amrai Main Road ,Durgapur-713204"
+display_header_contact_address: "true"
 
-resume_header_contact_info: "Durgapur • +918918991088 • souvikpramanik585@gmail.com"
+resume_header_contact_info: "Durgapur • +918918991088 • manojbid2003@gmail.com"
 display_header_contact_info: "true"
 
 resume_header_intro: "<p>Final year in Computer Science graduate with a passion for learning and innovation. Seeking an entry-level position in the tech industry where I can use my skills and knowledge to make a positive impact</p>"
