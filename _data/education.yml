@@ -2,12 +2,24 @@
 - degree: Bachelor of Technology, Computer Science & Engineering
   uni: Techno International New Town
   year: 2021 &mdash; 2024
-  awards:
-    - award: CGPA - 7.98
+  #awards:
+    #- award: CGPA - 7.98
   summary: Completed B.Tech in CSE
 
 - degree: Diploma, Computer Science & Engineering
-  uni: Brainware University
+  uni: Dr BC Roy Polytechnic,Durgapur-713206
   year: 2018 &mdash; 2021
-  award: CGPA - 8.19
+  #award: CGPA - 8.19
   summary: Completed Diploma in CSE
+
+- degree: Higher Secondary Education
+  uni: R P Vivekananda Vidyapith, West Bengal Board,Durgapur-713213
+  year: 2017 &mdash; 2019
+  #award: CGPA - 8.19
+  summary: Vocational Training
+
+- degree: Secondary Education
+  uni: Pranavananda Vidya Mandir, ICSE Board,Durgapur-713205
+  year: 2005 &mdash; 2017
+  #award: CGPA - 8.19
+  summary: Matrix Pass
