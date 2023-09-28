@@ -1,14 +1,16 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: GCCD Kolkata
-  role: Participant
-  year: Aug, 2022
-  url: https://gdg.community.dev/gdg-cloud-kolkata/
-  summary: Got 1st position in-person hackathon organised by Google Cloud Community Kolkata.
+- organization: Flexon Labs
+  role: Student
+  year: Jan, 2021
+  url: http://flexonlabs.com/Default/Pages/Default.aspx
+  summary: Web Development Course using HTML,CSS,PHP & MYSQL
+  certificate drive link: https://drive.google.com/file/d/12TYQB_lp8_FWHhs6_qmbxPM2S0hOSov0/view?usp=sharing
 
-- organization: TechXibition, Brainware University
-  role: IoT Development
-  year: Jun,2022
-  url: https://www.flickr.com/photos/brainwareindia/52128897636/in/album-72177720299609994/
-  summary: 1st Runnerup in Tech Exibition organised by Brainware University.
+- organization: Flexon Labs
+  role: Student
+  year: Aug,2021
+  url: http://flexonlabs.com/Default/Pages/Default.aspx
+  summary: Web Development Course using ASP.NET & SQL SERVER
+  certificate drive link: https://drive.google.com/file/d/12W7497FIjVwW4pj5oKNMPMo8BMVRObIa/view?usp=sharing
