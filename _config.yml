@@ -18,10 +18,10 @@ resume_contact_email: "manojbid2003@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone: "+918918991088"
-resume_contact_address: "Durgapur"
+resume_contact_address: "81 Sn Banerjee Road, A-zone, Amrai Main Road ,Durgapur-713204"
 
 resume_header_contact_info: "Durgapur • +918918991088 • souvikpramanik585@gmail.com"
-display_header_contact_info: "false"
+display_header_contact_info: "true"
 
 resume_header_intro: "<p>Final year in Computer Science graduate with a passion for learning and innovation. Seeking an entry-level position in the tech industry where I can use my skills and knowledge to make a positive impact</p>"
 
@@ -46,13 +46,13 @@ resume_section_interests: true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url: "https://github.com/souvik-pramanik"
-  resume_twitter_url: "http://twitter.com/snaptokon"
+  #resume_twitter_url: "http://twitter.com/snaptokon"
   # resume_dribbble_url: "https://dribbble.com/jag"
   resume_facebook_url: "http://m.facebook.com/snaptokon"
   resume_linkedin_url: "https://www.linkedin.com/in/snaptokon"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url: "http://joelglovier.com"
-  resume_medium_url: "https://medium.com/@snaptokon"
+  # resume_medium_url: "https://medium.com/@snaptokon"
 resume_print_social_links: true
 
 # Design settings
